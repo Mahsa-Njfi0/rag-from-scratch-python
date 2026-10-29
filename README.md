@@ -7,7 +7,7 @@ ______  ___  _____
 \_| \_\_| |_/\____/
 ```
 
-# RAG From Scratch (Python)
+# RAG From Scratch [Python]
 
 A small, readable, **fully local** Retrieval-Augmented Generation pipeline in ~500 lines of Python. No cloud APIs, no API keys, no surprise bills. Reads PDFs, chunks them, embeds with a local model, stores them in a real vector DB, and answers questions grounded in the document.
 
